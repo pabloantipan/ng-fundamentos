@@ -2,6 +2,8 @@ import { Component } from '@angular/core';
 // import { threadId } from 'worker_threads';
 import { Product } from './product.model';
 
+let this_is_test_;
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
